@@ -1,0 +1,55 @@
+[33mcommit 7324371683d24b599814d65ffb02196efc0e8350[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gerivan Jose Pereira De Araujo <Gerivan.P.Araujo@grupoboticario.com.br>
+Date:   Thu Nov 17 19:17:40 2022 -0300
+
+    Voltei para o estado do bfa2c2b
+
+[33mcommit bcfbe0de8b6c74b60d159f55d2f5e57655bd0b76[m
+Author: Gerivan Jose Pereira De Araujo <Gerivan.P.Araujo@grupoboticario.com.br>
+Date:   Thu Nov 17 19:06:51 2022 -0300
+
+    adicionando um consolelog
+
+[33mcommit bfa2c2b06c4f2210563a480fdb2546ca9964a381[m
+Author: GerivanJose <105976240+GerivanJose@users.noreply.github.com>
+Date:   Thu Nov 17 19:02:58 2022 -0300
+
+    Update app.js
+    
+    Adicionando 4 linhas
+
+[33mcommit a97394265a314c55449a0dbddc89e26bbba3505f[m
+Author: GerivanJose <105976240+GerivanJose@users.noreply.github.com>
+Date:   Thu Nov 17 19:02:22 2022 -0300
+
+    Update app.js
+
+[33mcommit cbcd207d06238f3074046e29385ba58f5153e2ef[m
+Author: Gerivan Jose Pereira De Araujo <Gerivan.P.Araujo@grupoboticario.com.br>
+Date:   Thu Nov 17 18:38:06 2022 -0300
+
+    linkando o app.js com o html
+
+[33mcommit 6954d4a0c158eb9a85f7a0a056f7eb2bcf93c34c[m
+Author: GerivanJose <105976240+GerivanJose@users.noreply.github.com>
+Date:   Thu Nov 17 12:04:41 2022 -0300
+
+    Criação do html
+
+[33mcommit 11c19a2d3ce31a9e476b2b333b253599c18420a2[m
+Author: GerivanJose <105976240+GerivanJose@users.noreply.github.com>
+Date:   Fri Nov 11 15:31:15 2022 -0300
+
+    Alterando o readme do projeto
+
+[33mcommit 0f644dc5f9e42b8c481e7c9581d8a8ed1b08d5de[m
+Author: GerivanJose <105976240+GerivanJose@users.noreply.github.com>
+Date:   Fri Nov 11 15:29:46 2022 -0300
+
+    Criando o arquivo js com o console
+
+[33mcommit 4cb5d43b806712af1c6cfc143ce689cbeb42146c[m
+Author: GerivanJose <105976240+GerivanJose@users.noreply.github.com>
+Date:   Wed Nov 2 12:00:18 2022 -0300
+
+    Criando o arquivo readme
